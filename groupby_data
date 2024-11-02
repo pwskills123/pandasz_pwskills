@@ -1,0 +1,7 @@
+data = {
+    'Name': ['Alice', 'Bob', 'Charlie', 'David', 'Edward', 'Fiona', 'George', 'Helen', 'Ian', 'Jack'],
+    'Department': ['HR', 'Finance', 'IT', 'Finance', 'IT', 'HR', 'Finance', 'HR', 'IT', 'Finance'],
+    'Salary': [50000, 60000, 55000, 65000, 70000, 62000, 48000, 57000, 52000, 64000],
+    'Age': [25, 35, 45, 32, 28, 38, 40, 29, 36, 27],
+    'Gender': ['F', 'M', 'M', 'M', 'M', 'F', 'M', 'F', 'M', 'M']
+}
